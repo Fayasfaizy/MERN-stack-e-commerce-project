@@ -5,3 +5,5 @@
 2. Install Tools
 3. Create React App
 4. Create Git Repository
+5. Adding lists
+6. Add routing
