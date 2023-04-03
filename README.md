@@ -8,3 +8,4 @@
 5. Adding lists
 6. Add routing
 7. Create a Node.js Server
+8. Fetch products from backend
